@@ -1,3 +1,7 @@
 # Práctica 3: Git
-# Se cambia el nombre de la escena principal a mi Escena.
+## Integrantes
+-Pilar Sancho 2 (usuario psancho2)
+-Pilar Sancho 1
+En esta práctica vamos a trabajar con Git
+##Resumen:
 En esta práctica vamos a trabajar con Git
