@@ -7,3 +7,4 @@ En esta práctica vamos a trabajar con Git
 En esta práctica vamos a trabajar con Git
 ##Nuevas funcionalidades:
 -Cuando el jugador cae de la plataforma se destruye.
+- Hay objetos que el jugador puede recoger.
