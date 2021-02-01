@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//Controlador para el player
 public class PlayerController : MonoBehaviour {
 	
     /// <summary>
