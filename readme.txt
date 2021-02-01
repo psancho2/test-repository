@@ -5,3 +5,5 @@
 En esta práctica vamos a trabajar con Git
 ##Resumen:
 En esta práctica vamos a trabajar con Git
+##Nuevas funcionalidades:
+-Cuando el jugador cae de la plataforma se destruye.
